@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Professor Website Redesign – Next.js + GSAP
 
-## Getting Started
+A complete redesign of Prof. Dr. Altaf Samo’s website, built using Next.js, GSAP, and Tailwind CSS.  
+The goal was to modernize an old-school website with scroll-based storytelling, micro-interactions, and a smooth onboarding flow to make it feel engaging and alive.
 
-First, run the development server:
+## YouTube Showcase
+Watch the full project walkthrough here:  
+[https://youtube.com/shorts/Z-4yJz6y7ZI](https://youtube.com/shorts/Z-4yJz6y7ZI)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
+- Smooth scroll animations using GSAP ScrollTrigger
+- Responsive and clean layout with Tailwind CSS
+- Story-driven onboarding experience
+- Micro-interactions for better engagement
+- Built with Next.js 14 for high performance
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tech Stack
+- Next.js 14
+- GSAP (GreenSock Animation Platform)
+- Tailwind CSS
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## How to Run the Project
+1. Clone the repository  
+   ```
+   git clone https://github.com/asherafridi/professor-portfolio.git
+   ```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+2. Navigate to the project directory  
+   ```
+   cd professor-website-redesign
+   ```
 
-## Learn More
+3. Install dependencies  
+   ```
+   npm install
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+4. Run the development server  
+   ```
+   npm run dev
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Inspiration
+I came across Prof. Dr. Altaf Samo’s website and wanted to redesign it with a modern, interactive approach — transforming a static layout into a story-driven experience that flows smoothly with animations.
 
-## Deploy on Vercel
+## About the Project
+This redesign is not just a layout upgrade; it’s a complete reimagination of how information can be presented through storytelling and motion.  
+It demonstrates how subtle animations and smart UI/UX design can make a professional website feel more human and dynamic.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Links
+- **Live Preview**: [https://professor-portfolio-xi.vercel.app/](https://professor-portfolio-xi.vercel.app/)
+- **GitHub Repo**: [https://github.com/asherafridi/professor-portfolio](https://github.com/asherafridi/professor-portfolio)
+- **YouTube Showcase**: [https://youtube.com/shorts/Z-4yJz6y7ZI](https://youtube.com/shorts/Z-4yJz6y7ZI)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Work With Me
+If you’d like your website to look modern, interactive, and story-driven, I can redesign yours too.  
+Contact me through [LinkedIn](https://www.linkedin.com/in/ashirafridi/) or email.
+
+## Tags
+NextJS, GSAP, WebDesign, WebDevelopment, UIUX, FrontendDeveloper, ModernWebDesign, MicroInteractions, ScrollAnimation, CreativeDeveloper, PortfolioProject, WebsiteRedesign
