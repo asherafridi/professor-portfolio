@@ -73,7 +73,7 @@ const projects = [
   {
     id: "09/12",
     name: "Teach for Khairpur Initiative",
-    description: "Led the 'Teach for Khairpur Initiative' to enhance education quality through establishing science labs, providing a mobile science laboratory, and building ICT skills for approximately 1,000 students.",
+    description: "Led the &apos;Teach for Khairpur Initiative&apos; to enhance education quality through establishing science labs, providing a mobile science laboratory, and building ICT skills for approximately 1,000 students.",
     duration: "Jan 2018 - Mar 2019",
     organization: "Sukkur IBA University (AACSB Accredited)",
     skills: ["Entrepreneurship", "Training"]
@@ -89,7 +89,7 @@ const projects = [
   {
     id: "11/12",
     name: "Eco-entrepreneurship Program - Youth Eco-Development Project",
-    description: "Under the 'Power to Youth' Project funded by Norwegian Church Aid (NCA) and the European Union, this program trains youth in eco-friendly business ventures addressing climate change issues in Mirpurkhas.",
+    description: "Under the &apos;Power to Youth&apos; Project funded by Norwegian Church Aid (NCA) and the European Union, this program trains youth in eco-friendly business ventures addressing climate change issues in Mirpurkhas.",
     duration: "2022 - 2024",
     organization: "Sukkur IBA Mirpurkhas Campus",
     skills: ["Entrepreneurship"]
@@ -97,7 +97,7 @@ const projects = [
   {
     id: "12/12",
     name: "Developing Research Excellence Framework",
-    description: "This project aims to develop a Research Excellence Framework (REF) for Pakistan's Higher Education Commission (HEC) in collaboration with Prof. Jeremy Hall, a renowned expert in research evaluation and policy development.",
+    description: "This project aims to develop a Research Excellence Framework (REF) for Pakistan&apos;s Higher Education Commission (HEC) in collaboration with Prof. Jeremy Hall, a renowned expert in research evaluation and policy development.",
     duration: "2025 - 2026",
     organization: "British Council / HEC Pakistan",
     skills: ["Research"]

@@ -63,9 +63,9 @@ document.querySelectorAll(".recommendation-text").forEach((section) => {
             post by Dr. Ajit on Dr. Altaf received significant attention, reaching nearly 5,500 professionals and
             receiving over 115 likes, comments, or shares. He is now considered a hero in India and is more than a
             friend to Dr. Ajit Patil. </p>
-        <p className="mt-4 text-lg"><span className="font-bold">Accolades:</span> 'LinkedIn Top Voice Award', Management
+        <p className="mt-4 text-lg"><span className="font-bold">Accolades:</span> &apos;LinkedIn Top Voice Award&apos;, Management
             Consultant & Writer, Leadership Coach,
-            Corporate & Academic Trainer, 'Top-75 Influential Marketing Professors in the World'</p>
+            Corporate & Academic Trainer, &apos;Top-75 Influential Marketing Professors in the World&apos;</p>
         <div>
             <p className="text-2xl font-bold mt-8">- Dr. Ajit Patil</p>
             <p className="text-md">Founder & CEO at Ajit Patil & Associates, India</p>
@@ -75,7 +75,7 @@ document.querySelectorAll(".recommendation-text").forEach((section) => {
     <div className="recommendation-text min-h-screen py-16 bg-white overflow-hidden px-16 ">
         <i className="ri-double-quotes-l text-9xl"></i>
         <p className="text-4xl font-bold description leading-12">Altaf Samo is a rare professional who not only understands the language of modern project administration but also executes it effectively. Known for his integrity, Altaf manages multiple project elements seamlessly, making it look effortless. He is multi-talented and highly motivated, and it was a privilege to work with him on a long and challenging project. </p>
-        <p className="mt-4 text-lg"><span className="font-bold">Accolades:</span> 'Financial Crime Expert Consultant'</p>
+        <p className="mt-4 text-lg"><span className="font-bold">Accolades:</span> &apos;Financial Crime Expert Consultant&apos;</p>
         <div>
             <p className="text-2xl font-bold mt-8">- Rowan Bosworth-Davies</p>
             <p className="text-md">Colleague</p>

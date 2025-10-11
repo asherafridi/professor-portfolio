@@ -1,7 +1,7 @@
 "use client"
-import React, { useEffect } from 'react'
-import { gsap } from 'gsap';
-import { ScrollTrigger } from 'gsap/ScrollTrigger';
+import React, { useEffect } from "react"
+import { gsap } from "gsap";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -112,9 +112,9 @@ if (doneContainer) {
                             <div>
                                 <h2 className="text-lg font-medium">Toward sustainable smart agriculture in a developing
                                     country: An empirical analysis of green firms determinants</h2>
-                                <p className="text-sm mt-4">Green entrepreneurship's role in achieving socio-economic and
+                                <p className="text-sm mt-4">Green entrepreneurship&apos;s role in achieving socio-economic and
                                     environmental objectives has garnered significant scholarly attention. Yet, the internal
-                                    and external factors influencing green agricultural enterprises' growth and
+                                    and external factors influencing green agricultural enterprises&apos; growth and
                                     sustainability remain under-explored. This study aims to validate the Green Agriculture
                                     Support Framework (GASF), positing that strategic alignment of internal (technology,
                                     talent management) and external (formal institutions, government support, culture)
@@ -153,7 +153,7 @@ if (doneContainer) {
                         </div>
                         <div className="w-1/2 p-4 p-8 flex flex-col justify-between bg-white">
                             <div>
-                                <h2 className="text-lg font-medium">Global University Entrepreneurial Spirit Students' Survey
+                                <h2 className="text-lg font-medium">Global University Entrepreneurial Spirit Students&apos; Survey
                                     (GUESSS) , Pakistan Report.2023</h2>
                                 <p className="text-sm mt-4">For its tenth edition, the GUESSS Survey 2023 has drawn
                                     participation from 57 countries and received 226,000 responses overall, demonstrating

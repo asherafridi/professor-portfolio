@@ -103,7 +103,7 @@ gsap.from("#about p, #about blockquote, #about .center-ele, #about img, #about h
                     </div>
 
                     <div className="intro-heading mb-16 md:mb-0">
-                        <p className="text-2xl md:text-3xl font-light">Hello, It's</p>
+                        <p className="text-2xl md:text-3xl font-light">Hello, It&apos;s</p>
                         <h1
                             className="text-7xl md:text-9xl font-regular bebas-neue-regular"
                             id="hero-name"

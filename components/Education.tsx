@@ -95,7 +95,7 @@ const Education = () => {
           I obtained my MBA in Finance from IBA, Pakistan in 1998.
         </text>
         <text className="text02" x="750" y="400">
-          I completed my Master's in Management Sciences from the Institute of
+          I completed my Master&apos;s in Management Sciences from the Institute of
           Administrative Enterprise, France in 2003.
         </text>
         <text className="text03" x="550" y="620">
