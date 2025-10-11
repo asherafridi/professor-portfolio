@@ -5,6 +5,14 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 gsap.registerPlugin(ScrollTrigger);
 
+interface ExperienceItem {
+  organization: string;
+  duration: string;
+  position: string;
+  skills: string[];
+  description: string;
+}
+
 const Experience = () => {
   const [activeIndex, setActiveIndex] = useState(0);
   const sectionRef = useRef(null);
@@ -123,13 +131,13 @@ const Experience = () => {
         },
       });
 
-      gsap.utils.toArray(".experience").forEach((exp:any) => {
-        gsap.from(exp, {
+      gsap.utils.toArray(".experience").forEach((exp) => {
+        gsap.from(exp as Element, {
           y: 50,
           opacity: 0,
           duration: 0.6,
           scrollTrigger: {
-            trigger: exp,
+            trigger: exp as Element,
             start: "top 85%",
             toggleActions: "play none none reverse",
           },
