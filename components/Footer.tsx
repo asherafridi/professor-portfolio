@@ -1,4 +1,5 @@
 import React from 'react'
+import Link from 'next/link'
 
 const Footer = () => {
   return (
@@ -23,8 +24,8 @@ const Footer = () => {
         <div className="w-1/3">
             <h1 className="text-5xl bebas-neue-regular text-gray-600">Social Links</h1>
             <ul className="mt-4">
-                <li className="mt-1"><a href="/" className="text-lg hover:underline underline-offset-4">Facebook</a></li>
-                <li className="mt-1"><a href="#" className="text-lg hover:underline underline-offset-4">LinkedIn</a></li>
+                <li className="mt-1"><Link href="/" className="text-lg hover:underline underline-offset-4">Facebook</Link></li>
+                <li className="mt-1"><Link href="#" className="text-lg hover:underline underline-offset-4">LinkedIn</Link></li>
             </ul>
         </div>
     </section>
