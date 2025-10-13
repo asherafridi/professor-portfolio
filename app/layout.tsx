@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { Bebas_Neue, Montserrat } from "next/font/google";
 import 'remixicon/fonts/remixicon.css'
+import SmoothScroll from "@/components/SmoothScroll";
 
 const bebasNeue = Bebas_Neue({
   weight: "400", // only one weight available
@@ -27,7 +28,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body  className={`${bebasNeue.variable} ${montserrat.variable} font-montserrat`}>
-        {children}
+        <SmoothScroll>{children}</SmoothScroll>
       </body>
     </html>
   );
