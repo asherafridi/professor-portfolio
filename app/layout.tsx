@@ -28,8 +28,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body  className={`${bebasNeue.variable} ${montserrat.variable} font-montserrat`}>
-        {/* <SmoothScroll>{children}</SmoothScroll> */}
-        {children}
+        <SmoothScroll>{children}</SmoothScroll>
+        {/* {children} */}
       </body>
     </html>
   );
