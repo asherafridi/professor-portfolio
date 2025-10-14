@@ -27,7 +27,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body  className={`${bebasNeue.variable} ${montserrat.variable} font-montserrat`}>
+      <body >
         <SmoothScroll>{children}</SmoothScroll>
         {/* {children} */}
       </body>

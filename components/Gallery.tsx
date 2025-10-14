@@ -14,6 +14,7 @@ const Gallery = () => {
 
             if (row && gallery) {
                 const scrollDistance = row.scrollWidth - gallery.clientWidth;
+                console.log(scrollDistance);
 
                 gsap.to(row, {
                     x: `-${scrollDistance}px`,
