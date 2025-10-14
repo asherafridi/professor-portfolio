@@ -163,7 +163,7 @@ if (horizontalSection) {
       </div>
 
       <div
-        className="horizontal-container flex gap-8 mt-16"
+        className="horizontal-container flex gap-8 h-full items-center"
         id="project-container"
       >
         {projects.map((element, i) => (
