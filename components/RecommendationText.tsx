@@ -36,8 +36,9 @@ document.querySelectorAll(".recommendation-text").forEach((section) => {
     scrollTrigger: {
       trigger: section,
       start: "top 50%",
-      end: "bottom 50%",
+      end: "bottom bottom",
       scrub: 1,
+      // markers: true,
     },
   });
 });
@@ -53,7 +54,7 @@ document.querySelectorAll(".recommendation-text").forEach((section) => {
     </section>
     <div className="recommendation-text min-h-screen py-16 bg-gray-100 overflow-hidden px-16">
         <i className="ri-double-quotes-l text-9xl"></i>
-        <p className="text-4xl font-bold description leading-12">Prof Dr. Altaf Samo is a rare Nationalist intellect who
+        <p className="text-4xl font-medium description leading-12">Prof Dr. Altaf Samo is a rare Nationalist intellect who
             returned to Pakistan
             after completing his education at world-renowned universities overseas. He is an MIT Entrepreneurship
             Teacher Fellow and MIT Launch Club mentor with over 20 years of experience as an Academician, Project Head,
@@ -74,7 +75,7 @@ document.querySelectorAll(".recommendation-text").forEach((section) => {
 
     <div className="recommendation-text min-h-screen py-16 bg-white overflow-hidden px-16 ">
         <i className="ri-double-quotes-l text-9xl"></i>
-        <p className="text-4xl font-bold description leading-12">Altaf Samo is a rare professional who not only understands the language of modern project administration but also executes it effectively. Known for his integrity, Altaf manages multiple project elements seamlessly, making it look effortless. He is multi-talented and highly motivated, and it was a privilege to work with him on a long and challenging project. </p>
+        <p className="text-4xl font-medium description leading-12">Altaf Samo is a rare professional who not only understands the language of modern project administration but also executes it effectively. Known for his integrity, Altaf manages multiple project elements seamlessly, making it look effortless. He is multi-talented and highly motivated, and it was a privilege to work with him on a long and challenging project. </p>
         <p className="mt-4 text-lg"><span className="font-bold">Accolades:</span> &apos;Financial Crime Expert Consultant&apos;</p>
         <div>
             <p className="text-2xl font-bold mt-8">- Rowan Bosworth-Davies</p>

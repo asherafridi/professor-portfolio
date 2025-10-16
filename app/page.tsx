@@ -1,4 +1,6 @@
 import Achieved from "@/components/Achieved";
+import TimelineIntro from "@/components/Education";
+import TimelineSection from "@/components/Education";
 import Education from "@/components/Education";
 import Experience from "@/components/Experience";
 import Footer from "@/components/Footer";
@@ -17,7 +19,8 @@ export default function Home() {
     <Hero />
     <Gallery />
     <Experience />
-    <Education />
+    {/* <Education /> */}
+    <TimelineSection />
     <Projects />
     <WhatHaveDone />
     <Achieved />

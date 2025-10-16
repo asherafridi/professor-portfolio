@@ -138,8 +138,7 @@ const Experience = () => {
           duration: 0.6,
           scrollTrigger: {
             trigger: exp as Element,
-            start: "top 85%",
-            toggleActions: "play none none reverse",
+            start: "top 90%",
           },
         });
       });
